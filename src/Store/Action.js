@@ -1,0 +1,10 @@
+export const USE={
+    SUBMIT: 'SUBMIT',
+    CHAPADD: 'CHAPADD',
+    TOPADD: 'TOPADD',
+    CHAPDELETE: 'CHAPDELETE',
+    TOPDELETE: 'TOPDELETE',
+    CHAPEDIT: 'CHAPEDIT',
+    TOPEDIT: 'TOPEDIT',
+    IN: 'IN'
+}
